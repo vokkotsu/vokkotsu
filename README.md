@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://media1.tenor.com/m/OQaO8JLeldIAAAAd/yuta-jjk-yuta-okkotsu.gif" alt="Yuta Okkotsu Banner" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=1200&duration=4000&lines=Hi+there%2C+I'm+Muhammad+Rizky+Pasya+%F0%9F%91%8B;Data+Engineer+%7C+AI+%26+ML+Enthusiast;Turning+messy+data+into+intelligent+systems" alt="Typing SVG" />
 </p>
 

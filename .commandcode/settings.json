@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Shell(dir:*)",
+      "Shell(git:*)",
+      "Shell(where:*)",
+      "Shell(git config --global user.name \"Muhammad Rizky Pasya\"; git config --global user.email \"muhammadrizkyp27@gmail.com\"; git --version; where gh 2>&1; where git-credential-manager 2>&1)",
+      "Shell(where gh 2>&1; where git-credential-manager 2>&1; ls \"C:\\Program Files\\Git\\mingw64\\bin\" 2>&1 | grep -i cred)",
+      "Shell(dir C:\\Users\\muham\\.git-credentials 2>&1; dir C:\\Users\\muham\\.config\\git 2>&1)",
+      "powershell",
+      "Shell(set:*)"
+    ],
+    "deny": [],
+    "defaultMode": "default"
+  }
+}
