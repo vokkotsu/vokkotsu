@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=1200&duration=4000&lines=Hi+there%2C+I'm+Muhammad+Rizky+Pasya+%F0%9F%91%8B;Data+Engineer+%7C+AI+%26+ML+Enthusiast;Turning+messy+data+into+intelligent+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=663298&center=true&vCenter=true&width=1200&duration=4000&lines=Hi+there%2C+I'm+Muhammad+Rizky+Pasya+%F0%9F%91%8B;Data+Engineer+%7C+AI+%26+ML+Enthusiast;Turning+messy+data+into+intelligent+systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,12 +12,12 @@
 </p>
 
 <p align="center">
-  <a href="mailto:muhammadrizkyp27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://wa.me/6285725440940"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-  <a href="https://github.com/vokkotsu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:muhammadrizkyp27@gmail.com"><img src="https://img.shields.io/badge/Email-663298?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://wa.me/6285725440940"><img src="https://img.shields.io/badge/WhatsApp-663298?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://github.com/vokkotsu"><img src="https://img.shields.io/badge/GitHub-663298?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=663298&height=60&section=footer" width="100%" />
 
 ## 🙋‍♂️ About Me
 
@@ -27,7 +27,7 @@
 - ⚡ Engineered **LNK OmniGrid**, a modular dashboard ecosystem that streamlined factory & financial data workflows.
 - 🌐 Beyond code: **Google Student Ambassador**, Head of Events for **ORSEN 2024**, and Liaison Officer for the **FACE-IT** international exchange program.
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=663298&height=60&section=footer" width="100%" />
 
 ## 🛠️ Tech Stack & Tools
 
@@ -39,35 +39,35 @@
 **Backend**
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,fastapi,flask" alt="Backend" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-663298?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow"/>
+  <img src="https://img.shields.io/badge/Streamlit-663298?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </p>
 
 **Database & Data**
 <p>
   <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
-  <img src="https://img.shields.io/badge/Grist-4A90D9?style=for-the-badge&logoColor=white" alt="Grist"/>
+  <img src="https://img.shields.io/badge/SQL-663298?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Pinecone-663298?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
+  <img src="https://img.shields.io/badge/Grist-663298?style=for-the-badge&logoColor=white" alt="Grist"/>
 </p>
 
 **AI / ML**
 <p>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/scikit--learn-663298?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-663298?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Ollama-663298?style=for-the-badge&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/Pandas-663298?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-663298?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 </p>
 
 **Tools & Cloud**
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,gitlab,gcp" alt="Tools" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-  <img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logoColor=white" alt="Folium"/>
+  <img src="https://img.shields.io/badge/Plotly-663298?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Folium-663298?style=for-the-badge&logoColor=white" alt="Folium"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=663298&height=60&section=footer" width="100%" />
 
 ## 🚀 Featured Projects
 
@@ -79,27 +79,27 @@
 | **Optimizing Predictive Models** | Kaggle competition models (Spaceship Titanic, Horse Health) achieving top rankings; published at ICOMIT 2024. | Python · XGBoost · LightGBM · CatBoost |
 | **LNK OmniGrid** | Modular ecosystem of 8+ operational dashboards (OEE, Yield, RFQ) for Grist, deployed via GitLab Pages CI/CD. | Vanilla JS · Tailwind CSS · Grist |
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=663298&height=60&section=footer" width="100%" />
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vokkotsu&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vokkotsu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vokkotsu&show_icons=true&title_color=663298&icon_color=663298&text_color=c9d1d9&bg_color=0d1117&border_color=663298" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vokkotsu&layout=compact&title_color=663298&text_color=c9d1d9&bg_color=0d1117&border_color=663298" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vokkotsu&theme=radical&hide_border=true" alt="Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vokkotsu&background=0D1117&ring=663298&fire=663298&currStreakNum=663298&sideNums=663298&currStreakLabel=663298&sideLabels=663298&dates=c9d1d9&border=663298" alt="Contribution Streak" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=663298&height=60&section=footer" width="100%" />
 
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:muhammadrizkyp27@gmail.com"><img src="https://img.shields.io/badge/Email-muhammadrizkyp27%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://wa.me/6285725440940"><img src="https://img.shields.io/badge/WhatsApp-+6285725440940-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-  <a href="https://github.com/vokkotsu"><img src="https://img.shields.io/badge/GitHub-vokkotsu-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:muhammadrizkyp27@gmail.com"><img src="https://img.shields.io/badge/Email-muhammadrizkyp27%40gmail.com-663298?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://wa.me/6285725440940"><img src="https://img.shields.io/badge/WhatsApp-+6285725440940-663298?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://github.com/vokkotsu"><img src="https://img.shields.io/badge/GitHub-vokkotsu-663298?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <p align="center">
