@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=663298&center=true&vCenter=true&width=1200&duration=4000&lines=Hi+there%2C+I'm+Muhammad+Rizky+Pasya+%F0%9F%91%8B;Data+Engineer+%7C+AI+%26+ML+Enthusiast;Turning+messy+data+into+intelligent+systems" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=663298&center=true&vCenter=true&width=600&lines=Data+Engineer;AI+%26+ML+Enthusiast;Turning+messy+data+into+intelligent+systems" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -102,6 +104,9 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=vokkotsu&background=0D1117&ring=663298&fire=663298&currStreakNum=663298&sideNums=663298&currStreakLabel=663298&sideLabels=663298&dates=c9d1d9&border=663298" alt="Contribution Streak" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vokkotsu&bg_color=0D1117&color=663298&line=663298&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=663298&height=100&section=header" width="100%" />
@@ -117,4 +122,7 @@
 
 <p align="center">
   <i>💼 Currently open to full-time roles as a Data Engineer, Data Scientist, or ML Engineer. Let's build something impactful together!</i>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vokkotsu&color=663298&style=for-the-badge&label=PROFILE+VIEWS" alt="vokkotsu profile views" />
 </p>
