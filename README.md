@@ -17,7 +17,9 @@
   <a href="https://github.com/vokkotsu"><img src="https://img.shields.io/badge/GitHub-663298?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=663298&height=60&section=footer" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=663298&height=100&section=header" width="100%" />
+</p>
 
 ## 🙋‍♂️ About Me
 
@@ -27,7 +29,9 @@
 - ⚡ Engineered **LNK OmniGrid**, a modular dashboard ecosystem that streamlined factory & financial data workflows.
 - 🌐 Beyond code: **Google Student Ambassador**, Head of Events for **ORSEN 2024**, and Liaison Officer for the **FACE-IT** international exchange program.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=663298&height=60&section=footer" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=663298&height=100&section=header" width="100%" />
+</p>
 
 ## 🛠️ Tech Stack & Tools
 
@@ -67,7 +71,9 @@
   <img src="https://img.shields.io/badge/Folium-663298?style=for-the-badge&logoColor=white" alt="Folium"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=663298&height=60&section=footer" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=663298&height=100&section=header" width="100%" />
+</p>
 
 ## 🚀 Featured Projects
 
@@ -79,20 +85,27 @@
 | **Optimizing Predictive Models** | Kaggle competition models (Spaceship Titanic, Horse Health) achieving top rankings; published at ICOMIT 2024. | Python · XGBoost · LightGBM · CatBoost |
 | **LNK OmniGrid** | Modular ecosystem of 8+ operational dashboards (OEE, Yield, RFQ) for Grist, deployed via GitLab Pages CI/CD. | Vanilla JS · Tailwind CSS · Grist |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=663298&height=60&section=footer" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=663298&height=100&section=header" width="100%" />
+</p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vokkotsu&show_icons=true&title_color=663298&icon_color=663298&text_color=c9d1d9&bg_color=0d1117&border_color=663298" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vokkotsu&layout=compact&title_color=663298&text_color=c9d1d9&bg_color=0d1117&border_color=663298" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vokkotsu&show_icons=true&title_color=663298&icon_color=663298&text_color=c9d1d9&bg_color=0d1117&border_color=663298" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vokkotsu&background=0D1117&ring=663298&fire=663298&currStreakNum=663298&sideNums=663298&currStreakLabel=663298&sideLabels=663298&dates=c9d1d9&border=663298" alt="Contribution Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vokkotsu&layout=compact&title_color=663298&text_color=c9d1d9&bg_color=0d1117&border_color=663298" alt="Top Languages" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=663298&height=60&section=footer" width="100%" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=vokkotsu&background=0D1117&ring=663298&fire=663298&currStreakNum=663298&sideNums=663298&currStreakLabel=663298&sideLabels=663298&dates=c9d1d9&border=663298" alt="Contribution Streak" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=663298&height=100&section=header" width="100%" />
+</p>
 
 ## 📫 Let's Connect
 
