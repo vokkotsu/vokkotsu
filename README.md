@@ -92,11 +92,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vokkotsu&show_icons=true&title_color=663298&icon_color=663298&text_color=c9d1d9&bg_color=0d1117&border_color=663298" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=vokkotsu&show_icons=true&title_color=663298&icon_color=663298&text_color=c9d1d9&bg_color=0d1117&border_color=663298" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vokkotsu&layout=compact&title_color=663298&text_color=c9d1d9&bg_color=0d1117&border_color=663298" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vokkotsu&layout=compact&title_color=663298&text_color=c9d1d9&bg_color=0d1117&border_color=663298" alt="Top Languages" />
 </p>
 
 <p align="center">
